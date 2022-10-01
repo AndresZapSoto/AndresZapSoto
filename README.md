@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndresZapSoto on my way to comeback with programing life!!
 - 👀 I’m interested in front-end at first step, then we will see! "I accept any advice"
-- 🌱 I’m currently learning HTML + CSS in a few days JS (this was writed in september 2022 xD)
+- 🌱 I’m currently learning HTML + CSS, and JS coming soon!
 - 💞️ I’m looking to collaborate on everything about web develop.
 
 <!---
